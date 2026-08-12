@@ -1,0 +1,6 @@
+{
+  "name": "Архитектура МИС Пациента",
+  "description": "Интерактивная схема архитектуры МИС Пациента, слайд презентации 16:9 и экспертные модули партисипативной медицины для публикаций и докладов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
